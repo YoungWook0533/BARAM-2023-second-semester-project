@@ -1,5 +1,6 @@
 로보티즈 홈페이지 : https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/#overview
-1.해당 홈페이지에서 quick start guide, simulation에서 gazebo simulation, SLAM simulation, navigation simulation에서 시키는거 다 따라할 것.(humble)
+
+1.로보티즈 홈페이지에서 quick start guide, simulation에서 gazebo simulation, SLAM simulation, navigation simulation에서 시키는거 다 따라할 것.(humble)
 
 2.위 파일들 zip으로 다운받아서 설명란에 적혀있는대로 파일 덮어쓰기할 것.
 
