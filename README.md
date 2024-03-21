@@ -10,6 +10,8 @@
 
 4.  $ pip3 install -U scikit-learn
 
+*코드 내 youngwook을 전부 본인 닉네임으로 변경할 것!
+
 실행법
 
 1.  $ ros2 launch turtlebot3_gazebo multi_robot.launch.py (gazebo 실행)
