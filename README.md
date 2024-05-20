@@ -1,3 +1,6 @@
+
+![result](https://github.com/YoungWook0533/BARAM-2023-second-semester-project/assets/139562842/46df1a44-ff1f-4cb5-86f8-463626e56797)
+
 *라이더를 통해 후미 로봇이 선두 로봇을 추적하도록 하는 시뮬레이션. 터틀봇 두 대 사용.
 
 로보티즈 홈페이지 : https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/#overview
